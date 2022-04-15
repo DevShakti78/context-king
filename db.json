@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "SHAKTI DEV SAH",
+      "age": "22",
+      "date_of_birth": "2022-03-30",
+      "state_of_residence": "Bihar",
+      "address": "At- phulparas",
+      "pin_code": "847409",
+      "id": 1
+    }
+  ]
+}
